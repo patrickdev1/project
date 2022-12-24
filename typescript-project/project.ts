@@ -1,4 +1,4 @@
-  /* class Veiculos {
+class Veiculos {
     modelo: string
     rodas: number
     constructor(modelo: string, rodas: number) {
@@ -27,7 +27,7 @@ console.log(kawasaki instanceof Veiculos, kawasaki.modelo, kawasaki.rodas)
 
 type exemplo = "fruta" | "carne"
 let patrick: exemplo
-patrick = "fruta" */
+patrick = "fruta" 
 
 let ourTuple: [number, boolean, string];
 
