@@ -6,7 +6,7 @@ class Veiculos {
         this.rodas = rodas
     }
 }
-
+//Testezao
 let toyota = new Veiculos("10", 10)
 
 console.log(toyota.modelo, toyota.rodas)
